@@ -16,6 +16,9 @@ Build with `make` and start a seed node with the `start` command.
 
 **This will run with defaults and seed/crawl Osmosis**
 ```bash
+git clone https://github.com/gh0stdotexe/tenderseed
+cd tenderseed
+make
 tenderseed start
 ```
 
